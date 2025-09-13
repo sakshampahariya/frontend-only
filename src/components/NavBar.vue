@@ -114,6 +114,7 @@ body.dark-theme .navbar.scrolled {
         <a href="#features">Features</a>
         <a href="https://github.com/DarkenStars/ExplainableDocs-AI" target="_blank" rel="noopener noreferrer">About</a>
         <a href="https://t.me/NewsAdvisorAIBot" target="_blank">Telegram</a>
+        <a href="https://wa.me/14155238886?text=Hi" target="_blank">WhatsApp</a>
       </nav>
 
       <div class="nav-actions">
